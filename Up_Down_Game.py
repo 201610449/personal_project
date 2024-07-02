@@ -1,7 +1,7 @@
 import random
 
 def up_down_game(number_range):
-    # 입력받은 number_range가 유효한지 검증
+    # number_range의 유효성 검사
     if isinstance(number_range, int):
         if number_range <= 1:
             return print('잘못된 범위입니다.')
@@ -20,7 +20,7 @@ def up_down_game(number_range):
         
         # 두번째 while 루프: 사용자가 정답을 맞출때까지 반복
         while True:
-            # 세번째 while 루프: 사용자가 유효한 값을 입력할 때까지 반복
+            # 세번째 while 루프: 입력값의 유효성 검사
             while True:
                 try:
                     input_number = int(input('숫자를 입력하세요.'))
@@ -47,7 +47,7 @@ def up_down_game(number_range):
         else:
             highest_score = min([highest_score, attempts])
             
-        # 네번째 while 루프: 재시작 여부 결정시, 입력값의 유효성을 검증
+        # 네번째 while 루프: 재시작 여부 결정시 입력값의 유효성 검사
         while True:
             restart = input('다시 시작하시겠습니까? (Y/N)\n')
             restart = restart.upper()
