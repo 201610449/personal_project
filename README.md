@@ -1,7 +1,6 @@
-# practice
-깃허브 연습용 레포지토리
+# 깃허브 연습용 레포지토리
 
-Up_Down_Game.py : 파이썬 개인과제 1 updown 게임
+# Up_Down_Game.py : 파이썬 개인과제 1 updown 게임
 
 과제 1 블로그 링크: https://youtharchive.tistory.com/34
 
@@ -16,8 +15,8 @@ up_down_game(number_range)함수에 2이상의 정수를 인자로 전달하고 
 다시 시작했을때 이전 시도보다 시도 횟수가 적었다면 하이스코어를 갱신합니다.
 
 게임이 종료될 때, 하이스코어를 출력합니다.
------------------------------------------------------------------------------
-Rock_Paper_Scissors : 파이썬 개인과제 2 가위바위보 게임
+
+# Rock_Paper_Scissors : 파이썬 개인과제 2 가위바위보 게임
 
 과제 2 블로그 링크: https://youtharchive.tistory.com/35
 
