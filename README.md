@@ -1,4 +1,4 @@
-# Up_Down_Game.py : 파이썬 개인과제1 updown
+# Up_Down_Game.py: 파이썬 개인과제 1 UpDown
 
 과제 1 블로그 링크: https://youtharchive.tistory.com/34
 
@@ -14,7 +14,7 @@ up_down_game(number_range)함수에 2이상의 정수를 인자로 전달하고 
 
 게임이 종료될 때, 하이스코어를 출력합니다.
 
-# Rock_Paper_Scissors.py : 파이썬 개인과제2 가위바위보
+# Rock_Paper_Scissors.py: 파이썬 개인과제 2 가위바위보
 
 과제 2 블로그 링크: https://youtharchive.tistory.com/35
 
